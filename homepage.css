@@ -2,35 +2,56 @@
 body,html{
 	margin: 0px;
 	padding: 0px;
-	background-image: url("apartments.jpg");
+	background-image: url("home page pic.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 }	
 
-.title{
+.title_words{
 	position: fixed;
 	left: 0px;
 	top: 0px;
-	opacity: 0.3;
 	background-color: black;
 	width: 100%;
 	height: 2em;
 	color: white;
-	padding-top:1em;
 	font-size: 32px;
+	font-family: Arial;
+	text-align: center;
+	padding-top: 25px;
 }
 
 .singlefamilyrental{
 	position: relative;
 	margin:1em;
 	left: 8em;
-	top: 8em;
-
+	top: 5em;
+	color: white;
+	font-size: 24px;
+	text-decoration: underline;
 }
 
+.button1{
+	position:absolute;
+	background-color:white;
+	font: bold;
+	color:blue;
+	font-size: 15px;
+	font-family: Aral;
+	padding:4px;
+	border-radius: 8px;
 
-
-
+}
+.othercalculations{
+	position:relative;
+	margin:1em;
+	left: 25em;
+	top:2.8em;
+	color:white;
+	font-size:24px;
+	text-decoration:underline;	
+}	
+	
 .bottom{
 	position: fixed;
 	left: 0%;
@@ -39,13 +60,22 @@ body,html{
 	height: 50px;
 	opacity: 0.7; /*transparent setting*/
 	background-color: black;
-	color: white;
+	
 }
+
+.bottom_words{
+	position:absolute;
+	color: gold;
+	padding-left: 10em;
+	top:94%;
+	font-size: 20px;
+}
+
 a {
 	text-decoration: none;
-	color: #FFFFFF;
+	color: gold;
 }
 	
 a:hover {
-	color: red;
+	color: purple;
 }
