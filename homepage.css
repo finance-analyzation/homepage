@@ -54,7 +54,7 @@ body,html{
 
 .bottom_words{
 	position:absolute;
-	color: black;
+	color: aqua;
 	padding-left: 12em;
 	top:90%;
 	font-size: 20px;
@@ -62,7 +62,7 @@ body,html{
 
 a {
 	text-decoration: none;
-	color: blue;
+	color: aqua;
 }
 	
 a:hover {
