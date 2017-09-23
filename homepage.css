@@ -40,8 +40,20 @@ body,html{
 	font-family: Aral;
 	padding:4px;
 	border-radius: 8px;
+}
+
+.button2{
+	position:absolute;
+	background-color:white;
+	font: bold;
+	color:blue;
+	font-size: 15px;
+	font-family: Aral;
+	padding:4px;
+	border-radius: 8px;
 
 }
+
 .othercalculations{
 	position:absolute;
 	margin:1em;
