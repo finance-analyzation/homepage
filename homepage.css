@@ -75,15 +75,6 @@ body,html{
 	font-size:24px;
 	text-decoration:underline;
 	white-space: nowrap;
-}	
-
-.login{
-	position:absolute;
-	left: 70em;
-	top: 7em;
-	color:white;
-
-}
 
 .bottom_words{
 	position:absolute;
