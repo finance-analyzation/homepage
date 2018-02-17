@@ -30,7 +30,8 @@ body,html{
 	font-size: 24px;
 	text-decoration: underline;
 	padding-top: 25px;
-
+}
+	
 .button1{
 	position:absolute;
 	background-color:white;
@@ -51,7 +52,6 @@ body,html{
 	font-family: Aral;
 	padding:4px;
 	border-radius: 8px;
-	}
 }
 
 .button2{
