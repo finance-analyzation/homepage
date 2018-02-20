@@ -41,7 +41,9 @@ body,html{
 	font-family: Aral;
 	padding:4px;
 	border-radius: 8px;
-	left: 2em;
+	left: 1em;
+	white-space:nowrap;
+
 }
 
 .button3{
