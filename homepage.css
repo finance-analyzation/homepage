@@ -41,9 +41,7 @@ body,html{
 	font-family: Aral;
 	padding:4px;
 	border-radius: 8px;
-	left: 2.5em;
 	white-space:nowrap;
-
 }
 
 .button3{
@@ -55,8 +53,6 @@ body,html{
 	font-family: Aral;
 	padding:4px;
 	border-radius: 8px;
-	left: 18.5em;
-	top: 17em;
 }
 
 .button2{
@@ -68,8 +64,6 @@ body,html{
 	font-family: Aral;
 	padding:4px;
 	border-radius: 8px;
-	left: 3em;
-
 }
 
 .othercalculations{
