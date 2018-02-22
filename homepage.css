@@ -53,6 +53,8 @@ body,html{
 	font-family: Aral;
 	padding:4px;
 	border-radius: 8px;
+	white-space:nowrap;
+	top:2em;
 }
 
 .button2{
