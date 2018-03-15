@@ -55,6 +55,7 @@ body,html{
 	border-radius: 8px;
 	white-space:nowrap;
 	top:5em;
+	left: -1em;
 }
 
 .button2{
